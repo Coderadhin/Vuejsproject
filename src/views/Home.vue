@@ -1,6 +1,6 @@
 <template>
   <div class='home'>
-    <img src='/home-bg.png' class='bg' alt='Background' />
+    <img src='/Home.png' class='bg' alt='Background' />
     <div class='overlay'>
       <h1>Welcome to Story Voice Studio</h1>
       <button @click='listenStory'>Let's Read</button>
