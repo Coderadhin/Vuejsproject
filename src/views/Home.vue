@@ -1,6 +1,6 @@
 <template>
   <div class='home'>
-    <img src='/Home.png' class='bg' alt='Background' />
+    <img src='/New.png' class='bg' alt='Background' />
     <div class='overlay'>
       <button @click='listenStory'>Let's Read</button>
     </div>
