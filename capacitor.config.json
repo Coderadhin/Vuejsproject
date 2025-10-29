@@ -1,1 +1,7 @@
 
+{
+  "appId": "com.storyvoicestudio.app",
+  "appName": "Story Voice Studio",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
