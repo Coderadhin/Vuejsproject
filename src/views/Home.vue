@@ -2,7 +2,6 @@
   <div class='home'>
     <img src='/Home.png' class='bg' alt='Background' />
     <div class='overlay'>
-      <h1>Welcome to Story Voice Studio</h1>
       <button @click='listenStory'>Let's Read</button>
     </div>
   </div>
@@ -30,7 +29,7 @@ function listenStory() {
 
 .overlay {
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -38,7 +37,7 @@ function listenStory() {
 }
 
 button {
-  background-color: #E6E6FA;
+  background-color: #cccccc;
   border: none;
   padding: 0.75rem 1.5rem;
   border-radius: 1rem;
