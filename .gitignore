@@ -1,1 +1,14 @@
 
+# dependencies
+/node_modules
+
+# build outputs
+/www
+/dist
+
+# Capacitor Files
+/android/build
+/ios/build
+
+# Critical exception for the Gradle Wrapper JAR (MUST BE TRACKED)
+!android/gradle/wrapper/gradle-wrapper.jar
